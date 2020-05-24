@@ -7,8 +7,12 @@ The output of the project will look like this
 ![enter image description here](https://res.cloudinary.com/practicaldev/image/fetch/s--9GZ-EKO_--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://raw.githubusercontent.com/cassieview/intro-nlp-wine-reviews/master/imgs/wordcloud.PNG) 
 
 Img source :- shorturl.at/adtQ9
+
+
 I have attached both the **.py** and **.ipynb** in this repository.
 All the dependencies will install automatically on running the script.
+
+
 **Steps to use  the  script in Jupyter notebook or any python notebook:-**
 
  - Open the **.ipynb** file in your **Python notebook**.
